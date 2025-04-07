@@ -1,2 +1,7 @@
-# Show-me-the-code
-What did you code today?
+# Did you code anything today? 😐
+
+```
+Talk is cheap. Show me the code
+```
+
+Learn 🔭 Code 💻 Teach 💪
